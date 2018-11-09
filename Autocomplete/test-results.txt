@@ -1,0 +1,24 @@
+Autocompleter test results, 6 April 2018
+Our Team: Jessie Baskauf and Ellie Mamantov
+Other Team: Cayden Ehrlich and Irene Sakson
+
+The other team's code passed their own tests.
+We cloned their file into our repository, opened it, and successfully debugged it without any changes needed.
+It passed all our tests without any errors.
+
+Our Tests:
+completeEmptyString(): passed
+nullString(): passed
+fullName(): passed
+lowerCaseFullName(): passed
+invalidInput(): passed
+fullFirstName(): passed
+fullLastName(): passed
+partialFirstNameBeginning(): passed
+partialLastNameBeginning(): passed
+partialFirstNameNotBeginning(): passed
+partialLastNameNotBeginning(): passed
+acrossCommaBoundary(): passed
+firstOrLast(): passed
+singleLastName(): passed
+beginningOrMiddleOfName(): passed
